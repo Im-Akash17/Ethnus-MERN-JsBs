@@ -1,1 +1,0 @@
-# JavaScript-Bs-Ethnus-MERN
